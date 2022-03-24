@@ -1,3 +1,5 @@
+# Basic Exploratory analysis and minimal pre-processing of the data
+
 head(bit.seconds)
 
  plot(bit.seconds[,7])
